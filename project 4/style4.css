@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color:aquamarine;
+}
+#container{
+    text-align: center;
+    border:solid white;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top:100px;
+    padding:50px;
+}
+#heading{
+    background-color: grey;
+    padding:3px;
+}
+#userInput{
+    margin:10px;
+    padding:10px 20px;
+}
+button{
+    background-color: darkgray;
+    padding:5px 10px;
+    border-radius: 5px;
+}
